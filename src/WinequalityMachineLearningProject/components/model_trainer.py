@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-from mlProject import logger
+from WinequalityMachineLearningProject import logger
 from sklearn.linear_model import ElasticNet
 import joblib
 from WinequalityMachineLearningProject.entity.config_entity import ModelTrainerConfig

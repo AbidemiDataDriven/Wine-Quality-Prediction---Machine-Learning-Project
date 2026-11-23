@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 import numpy as np
 import joblib
 from WinequalityMachineLearningProject.utils.common import save_json
-from WinequalityMachineLearningProject.config_entity import ModelEvaluationConfig
+from WinequalityMachineLearningProject.entity.config_entity import ModelEvaluationConfig
 from pathlib import Path
 
 

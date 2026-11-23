@@ -1,6 +1,6 @@
 from WinequalityMachineLearningProject.constants import *
 from WinequalityMachineLearningProject.utils.common import read_yaml, create_directories
-from WinequalityMachineLearningProject.config_entity import (DataIngestionConfig,
+from WinequalityMachineLearningProject.entity.config_entity import (DataIngestionConfig,
                                             DataValidationConfig,
                                             DataTransformationConfig,
                                             ModelTrainerConfig,

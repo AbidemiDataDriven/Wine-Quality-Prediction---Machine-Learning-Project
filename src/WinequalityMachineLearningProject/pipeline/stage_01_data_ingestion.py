@@ -2,7 +2,7 @@ from WinequalityMachineLearningProject.config.configuration import Configuration
 from WinequalityMachineLearningProject.components.data_ingestion import DataIngestion
 from WinequalityMachineLearningProject import logger
 
-
+STAGE_NAME ="Data Ingestion Stage"
 class DataIngestionTrainingPipeline:
     def __init__(self):
         pass

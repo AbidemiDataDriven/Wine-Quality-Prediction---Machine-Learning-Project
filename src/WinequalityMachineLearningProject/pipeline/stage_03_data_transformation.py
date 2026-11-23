@@ -27,4 +27,5 @@ class DataTransformationTrainingPipeline:
             else:
                 raise Exception("You data schema is not valid")
 
-        except Exception as e
+        except Exception as e:
+            print(e)
