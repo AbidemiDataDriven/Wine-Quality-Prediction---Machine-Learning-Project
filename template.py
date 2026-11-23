@@ -29,9 +29,8 @@ list_of_files = [
     "research/trials.ipynb",
     "research/analysis_notebook.ipynb",
     "templates/index.html",
+    "templates/results.html",
     "test.py"
-     
-
      
 
 ]
